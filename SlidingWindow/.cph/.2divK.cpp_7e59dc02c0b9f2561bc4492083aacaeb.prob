@@ -1,0 +1,1 @@
+{"name":"Local: 2divK","url":"c:\\ultra\\programm\\SlidingWindow\\2divK.cpp","tests":[{"id":1690568094681,"input":"1\n5\n1 2 3 6 5 \n3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\ultra\\programm\\SlidingWindow\\2divK.cpp","group":"local","local":true}

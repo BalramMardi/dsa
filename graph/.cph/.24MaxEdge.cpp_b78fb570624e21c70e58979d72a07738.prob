@@ -1,0 +1,1 @@
+{"name":"Local: 24MaxEdge","url":"c:\\ultra\\cp\\graph\\24MaxEdge.cpp","tests":[{"id":1693484516051,"input":"4 6\n3 1 2\n3 2 3\n1 1 3\n1 2 4\n1 1 2\n2 3 4","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\ultra\\cp\\graph\\24MaxEdge.cpp","group":"local","local":true}

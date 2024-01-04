@@ -1,0 +1,1 @@
+{"name":"Local: 3map","url":"c:\\ultra\\programm\\hashing\\3map.cpp","tests":[{"id":1691259293803,"input":"6\n1 2 3 3 2 12\n5\n1\n2\n3\n4\n12","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\ultra\\programm\\hashing\\3map.cpp","group":"local","local":true}

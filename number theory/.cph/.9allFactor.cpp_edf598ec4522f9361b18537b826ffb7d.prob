@@ -1,0 +1,1 @@
+{"name":"Local: 9allFactor","url":"c:\\ultra\\cp\\number theory\\9allFactor.cpp","tests":[{"id":1692966214833,"input":"10\n21\n22\n23\n24\n25\n26\n27\n28\n29\n30","output":"4 4 2 8 3 4 4 6 2 8"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\ultra\\cp\\number theory\\9allFactor.cpp","group":"local","local":true}

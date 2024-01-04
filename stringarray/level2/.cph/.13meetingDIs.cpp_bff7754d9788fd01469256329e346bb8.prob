@@ -1,0 +1,1 @@
+{"name":"Local: 13meetingDIs","url":"c:\\ultra\\program\\stringarray\\level2\\13meetingDIs.cpp","tests":[{"id":1692872201244,"input":"3 5\n1 0 0 0 1\n0 0 0 0 0\n0 0 1 0 0","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\ultra\\program\\stringarray\\level2\\13meetingDIs.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: 12KahnAlgo2","url":"c:\\ultra\\cp\\graph\\12KahnAlgo2.cpp","tests":[{"id":1694006482341,"input":"4 4\n1 0\n2 0\n3 1\n3 2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\ultra\\cp\\graph\\12KahnAlgo2.cpp","group":"local","local":true}

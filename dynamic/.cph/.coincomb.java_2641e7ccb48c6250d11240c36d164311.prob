@@ -1,0 +1,1 @@
+{"name":"Local: coincomb","url":"c:\\ultra\\dynamic\\coincomb.java","tests":[{"id":1669915031997,"input":"4\n2\n3\n5\n6\n7","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\ultra\\dynamic\\coincomb.java","group":"local","local":true}

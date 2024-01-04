@@ -1,0 +1,1 @@
+{"name":"Local: 15well","url":"c:\\ultra\\cp\\graph\\15well.cpp","tests":[{"id":1694178782523,"input":"3 2\n1 2 2\n1 2 1\n2 3 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\ultra\\cp\\graph\\15well.cpp","group":"local","local":true}

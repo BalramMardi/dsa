@@ -1,0 +1,1 @@
+{"name":"Local: 11BFSnew","url":"c:\\ultra\\cp\\graph\\11BFSnew.cpp","tests":[{"id":1693372113972,"input":"7 7\n1 2 \n3 2\n3 4\n7 4\n6 2\n5 6\n7 5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\ultra\\cp\\graph\\11BFSnew.cpp","group":"local","local":true}

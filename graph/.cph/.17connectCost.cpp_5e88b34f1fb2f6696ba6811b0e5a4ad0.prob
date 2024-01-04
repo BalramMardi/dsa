@@ -1,0 +1,1 @@
+{"name":"Local: 17connectCost","url":"c:\\ultra\\cp\\graph\\17connectCost.cpp","tests":[{"id":1694434361180,"input":"7\n8\n0 1 10\n1 2 10\n2 3 10\n0 3 40\n3 4 2\n4 5 3\n5 6 3\n4 6 8","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\ultra\\cp\\graph\\17connectCost.cpp","group":"local","local":true}

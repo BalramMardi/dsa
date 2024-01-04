@@ -1,0 +1,1 @@
+{"name":"Local: 9partition","url":"c:\\ultra\\program\\stringarray\\level2\\9partition.cpp","tests":[{"id":1692805980938,"input":"ababcbacadefegdehijhklij","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\ultra\\program\\stringarray\\level2\\9partition.cpp","group":"local","local":true}

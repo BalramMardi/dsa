@@ -1,0 +1,1 @@
+{"name":"Local: 10MinimumSwap","url":"c:\\ultra\\cp\\graph\\10MinimumSwap.cpp","tests":[{"id":1693228496058,"input":"5\n10 19 6 3 5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\ultra\\cp\\graph\\10MinimumSwap.cpp","group":"local","local":true}

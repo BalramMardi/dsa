@@ -1,0 +1,1 @@
+{"name":"Local: 1intro","url":"c:\\ultra\\programm\\hashing\\1intro.cpp","tests":[{"id":1691253363251,"input":"5\n1 3 2 1 3\n5\n1\n4\n2\n3\n12","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\ultra\\programm\\hashing\\1intro.cpp","group":"local","local":true}

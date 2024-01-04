@@ -1,0 +1,1 @@
+{"name":"Local: 2alpha","url":"c:\\ultra\\programm\\hashing\\2alpha.cpp","tests":[{"id":1691258574769,"input":"abcdefaabc\n5\na\nb\nc\nd\ne","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\ultra\\programm\\hashing\\2alpha.cpp","group":"local","local":true}

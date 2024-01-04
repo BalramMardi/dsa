@@ -1,0 +1,1 @@
+{"name":"Local: 12sortParity","url":"c:\\ultra\\program\\stringarray\\level2\\12sortParity.cpp","tests":[{"id":1692869870342,"input":"6\n9 3 8 5 6 2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\ultra\\program\\stringarray\\level2\\12sortParity.cpp","group":"local","local":true}

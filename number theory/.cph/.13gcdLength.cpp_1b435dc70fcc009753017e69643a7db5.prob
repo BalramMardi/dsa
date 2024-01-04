@@ -1,0 +1,1 @@
+{"name":"Local: 13gcdLength","url":"c:\\ultra\\cp\\number theory\\13gcdLength.cpp","tests":[{"id":1692983294326,"input":"4\n2 3 1\n2 2 2\n6 6 2\n1 1 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\ultra\\cp\\number theory\\13gcdLength.cpp","group":"local","local":true}

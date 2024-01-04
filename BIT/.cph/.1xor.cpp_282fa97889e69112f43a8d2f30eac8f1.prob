@@ -1,0 +1,1 @@
+{"name":"Local: 1xor","url":"c:\\ultra\\programm\\BIT\\1xor.cpp","tests":[{"id":1691858284898,"input":"7\n2 7 8 3 8 3 2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\ultra\\programm\\BIT\\1xor.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: 20addstring","url":"c:\\ultra\\program\\stringarray\\level2\\20addstring.cpp","tests":[{"id":1692984969363,"input":"99\n99","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\ultra\\program\\stringarray\\level2\\20addstring.cpp","group":"local","local":true}

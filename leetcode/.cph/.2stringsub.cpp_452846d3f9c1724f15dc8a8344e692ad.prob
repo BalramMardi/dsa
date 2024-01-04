@@ -1,0 +1,1 @@
+{"name":"Local: 2stringsub","url":"c:\\ultra\\programm\\leetcode\\2stringsub.cpp","tests":[{"id":1692724472554,"input":"abcabcbb","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\ultra\\programm\\leetcode\\2stringsub.cpp","group":"local","local":true}

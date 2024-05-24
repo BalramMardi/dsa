@@ -25,6 +25,8 @@ string alienOrder(vector<string> &words)
         }
     }
 
+    // Step 2: Build the graph by comparing adjacent words
+
     for (int i = 0; i < words.size() - 1; i++)
     {
         bool flag = false;
@@ -57,6 +59,7 @@ string alienOrder(vector<string> &words)
         }
     }
 
+    // Step 3: Perform topological sort using Kahn's Algorithm
     queue<char> q;
     for (const auto &entry : degree)
     {

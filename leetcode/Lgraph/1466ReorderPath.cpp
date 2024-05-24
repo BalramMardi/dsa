@@ -7,12 +7,12 @@ using namespace std;
 void dfs(int node, vector<vector<pair<int, int>>> &graph, vector<bool> &visited, int &reorderCount)
 {
     visited[node] = true;
-    for (const auto &[neighbor, needsReorder] : graph[node])
+    for (const auto it : graph[node])
     {
-        if (!visited[neighbor])
+        if (!visited[it.first])
         {
-            reorderCount += needsReorder;
-            dfs(neighbor, graph, visited, reorderCount);
+            reorderCount += it.second;
+            dfs(it.first, graph, visited, reorderCount);
         }
     }
 }
